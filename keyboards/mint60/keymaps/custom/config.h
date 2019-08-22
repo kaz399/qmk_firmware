@@ -23,3 +23,11 @@
 // #define MASTER_RIGHT
 
 #define QMK_KEYS_PER_SCAN 4
+
+#ifdef TAPPING_TERM
+#undef TAPPING_TERM
+#endif
+
+#define TAPPING_TERM 170
+
+
