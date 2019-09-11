@@ -28,6 +28,6 @@
 #undef TAPPING_TERM
 #endif
 
-#define TAPPING_TERM 170
+#define TAPPING_TERM 190
 
 
